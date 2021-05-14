@@ -3,7 +3,7 @@ uvloop
 httptools
 numpy
 fastapi
-gunicorn==19.9.0
+gunicorn
 time
 os
 pickle
