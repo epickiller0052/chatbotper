@@ -1,0 +1,10 @@
+uvicorn
+uvloop
+httptools
+numpy
+fastapi
+gunicorn==19.9.0
+time
+os
+pickle
+torch==1.6.0
